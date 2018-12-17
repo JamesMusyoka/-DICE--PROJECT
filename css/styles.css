@@ -1,0 +1,19 @@
+body {
+  font-family: Gochi Hand;
+  font-size: 16px;
+  background-color: #F5F5F6;
+}
+
+h1, h2, h3 {
+  color: #008080;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+
+#new-score, #new-name {
+  width: 20em;
+}
