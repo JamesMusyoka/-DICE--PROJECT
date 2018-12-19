@@ -13,6 +13,8 @@ The goal of this project is to exercise my JavaScript programming skills with co
 ## Setup/Installation Requirements
 * This game can be played on any web browser available on your device.
 
+* You can link in this page: https://jamesmusyoka.github.io/-DICE--PROJECT/
+
 ## Known Bugs
 There are no unresolved issues in regards to this code that I know of.
 
